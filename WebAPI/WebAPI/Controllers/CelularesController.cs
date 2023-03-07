@@ -12,8 +12,8 @@ namespace WebAPI.Controllers
         {
             return new List<Celular>()
             {
-                new Celular() { Id = 1, Nombre = "Xiaomi" },
-                new Celular() { Id = 2, Nombre = "Samsung" },
+                new Celular() { Id = 1, Nombre = "GT" },
+                new Celular() { Id = 2, Nombre = "X" },
             };
            
         }
