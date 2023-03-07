@@ -14,7 +14,6 @@
             services.AddControllers();
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
-
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -26,8 +25,6 @@
             }
 
             app.UseHttpsRedirection();
-
-
             app.UseRouting();
             app.UseAuthorization();
 
