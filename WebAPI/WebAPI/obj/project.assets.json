@@ -3727,11 +3727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SalirDePT\\Desktop\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\SalirDePT\\Desktop\\WEBAPI_CELULARES\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\SalirDePT\\Desktop\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\SalirDePT\\Desktop\\WEBAPI_CELULARES\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\SalirDePT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SalirDePT\\Desktop\\WebAPICelulares\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\SalirDePT\\Desktop\\WEBAPI_CELULARES\\WebAPICelulares\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SalirDePT\\AppData\\Roaming\\NuGet\\NuGet.Config",

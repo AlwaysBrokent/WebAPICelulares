@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fOUa8RdYmPQ82i+ZZClhQZnIyC3mETVjn0kYUfUmG2HMXfEbqiQjHCxnEcKwW/fVRrERwKAiKIbKULRorVq5hg==",
+  "dgSpecHash": "uX8RIa5lB54JoyT9ENBcdczXw0RtbbZusMJD6udLfayfOlo3KGXr8vx5Iuk/ohXUd2xf6Frphe2K5eMUXY4u7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SalirDePT\\Desktop\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\SalirDePT\\Desktop\\WEBAPI_CELULARES\\WebAPICelulares\\WebAPI\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SalirDePT\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SalirDePT\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
